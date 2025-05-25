@@ -35,5 +35,43 @@
         "Po Saut","Jaya Simhavarman","Harivarman","Rudravarman","Po Rome","Po Klong Moh Nai","Sri Bhadravarman",
         "Po Phaok The","Jaya Indravarman","Cham Balam"
     ]
+},
+{
+    "name": "Kushan Empire",
+    "leaderName": "Kanishka the Great",
+    "adjective": ["Kushan"],
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Scientific",
+    "personality": "Kanishka the Great",
+
+    "startIntroPart1": "Greetings, Kanishka the Great, mighty sovereign of the Kushan Empire, uniter of the Yuezhi and patron of prosperity and piety! From the windswept steppes of Central Asia to the fertile plains of the Indus, your enlightened rule brought not only trade and conquest, but a golden age of scholarship and cultural fusion. Under your reign, Buddhism flourished and science traveled the length of the Silk Road, bridging worlds and wisdoms.",
+    "startIntroPart2": "Will you once more raise your banners across the crossroads of civilization? Will your empire again lead the way in commerce, culture, and discovery, and shine brightly as the beacon of enlightenment through the ages?",
+
+    "declaringWar": "You have blocked the path of trade and wisdom. Prepare to be swept aside.",
+    "attacked": "Your aggression insults the harmony we built. We will respond with precision and might.",
+    "defeated": "The caravans have stopped. The scrolls lie scattered. But knowledge never truly dies.",
+    "denounced": "Your path leads only to ruin. We will have no part in it.",
+    "introduction": "Welcome, traveler of distant realms. I am Kanishka, guardian of the trade routes and patron of the learned.",
+
+    "neutralHello": "The Silk Road welcomes many, so long as they come in peace.",
+    "hateHello": "You bring nothing but ignorance and strife.",
+    "tradeRequest": "Let us share our goods, our ideas, and the benefits of wisdom.",
+
+    "outerColor": [157, 113, 63],
+    "innerColor": [220, 170, 90],
+    "favoredReligion": "Buddhism",
+    "uniqueName": "Silk Road Scholars",
+    "uniques": [
+        "[+1 Science] from each Trade Route",
+        "Great Scientist cost reduced by [15%]"
+    ],
+    "cities": [
+        "Kapisa", "Peshawar", "Mathura", "Bactra", "Begram", "Taxila", "Purushapura", "Sagala", "Bharhut", "Khotan",
+        "Rajgir", "Vaishali", "Ujjain", "Kundina", "Vaisali", "Kangju", "Sanchi", "Kabul", "Vima", "Surkh Kotal"
+    ],
+    "spyNames": [
+        "Ashvagosha", "Vasumitra", "Charaka", "Matricheta", "Parnav", "Rishabh", "Vima Kadphises",
+        "Samgharakshita", "Yuezhi Scout", "Gandhara Whisper"
+    ]
 }
 ]
