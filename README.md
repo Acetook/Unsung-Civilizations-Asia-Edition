@@ -3,7 +3,7 @@
 Implement:                                               
 - [X] Champa civilization (Vietnam)
           
-- [ ] Kushan Empire civilization
+- [X] Kushan Empire civilization
           
 - [ ] Baekje civilization
           
