@@ -96,9 +96,9 @@
   "uniqueTo": "Baekje",
   "replaces": "Great Writer",
   "uniques": [
-    "Can instantly create a [Great Work of Writing] <by consuming this unit>",
-    "[+50] Faith <when Great Work is created>",
     "Great Person - [Culture]",
+    "Consumes self <when ending turn in city>",
+    "[+10] Faith <in all cities>",
     "Unbuildable",
     "Uncapturable"
   ],
