@@ -1,10 +1,10 @@
 [
-  {
+{
     "name": "Champa",
     "leaderName": "Po Klaung Garai",
     "adjective": ["Cham"],
     "startBias": ["Coastal"],
-    "preferredVictoryType": "Culture",
+    "preferredVictoryType": "Domination",
     "personality": "Po Klaung Garai",
 
     "startIntroPart1": "Blessings to you, noble Po Klaung Garai, guardian of the towers of Champa! From the central coasts of ancient Vietnam, your people thrived upon the sea, blessed with faith and fragrant sandalwood. The Kingdom of Champa stood as a bulwark of Hindu and later Buddhist devotion, defending its lands against powerful neighbors and leaving behind towering sanctuaries of piety and art.",
@@ -24,16 +24,16 @@
     "favoredReligion": "Buddhism",
     "uniqueName": "Sandalwood Legacy",
     "uniques": [
-      "+1 [Faith] per city on coast",
-      "[Temples] provide +1 [Culture]"
+        "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{Coast}] tiles>",
+        "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{Coast}] tiles>"
     ],
     "cities": [
-      "Vijaya","Indrapura","Simhapura","Amaravati","Kauthara","Panduranga","Trà Kiệu","Mỹ Sơn","Phan Rang","Tháp Chàm",
-      "Châu Sa","Cửa Đại","Đại Hữu","An Mỹ","Lưỡng Giang","Hương Mỹ","Trà Kiệu Đông","Chiên Đàn","Phú Yên","Bình Định"
+        "Vijaya","Indrapura","Simhapura","Amaravati","Kauthara","Panduranga","Trà Kiệu","Mỹ Sơn","Phan Rang","Tháp Chàm",
+        "Châu Sa","Cửa Đại","Đại Hữu","An Mỹ","Lưỡng Giang","Hương Mỹ","Trà Kiệu Đông","Chiên Đàn","Phú Yên","Bình Định"
     ],
     "spyNames": [
-      "Po Saut","Jaya Simhavarman","Harivarman","Rudravarman","Po Rome","Po Klong Moh Nai","Sri Bhadravarman",
-      "Po Phaok The","Jaya Indravarman","Cham Balam"
+        "Po Saut","Jaya Simhavarman","Harivarman","Rudravarman","Po Rome","Po Klong Moh Nai","Sri Bhadravarman",
+        "Po Phaok The","Jaya Indravarman","Cham Balam"
     ]
-  }
+}
 ]
