@@ -74,21 +74,26 @@
     "attackSound": "horse"
 },
 {
-    "name": "Hwarang Elite",
-    "unitType": "Sword",
-    "uniqueTo": "Baekje",
-    "replaces": "Swordsman",
-    "movement": 2,
-    "strength": 12,
-    "cost": 75,
-    "requiredTech": "Iron Working",
-    "requiredResource": "Iron",
-    "obsoleteTech": "Gunpowder",
-    "upgradesTo": "Longswordsman",
-    "uniques": [
-        "[+10]% Culture [per adjacent friendly unit]"
-    ],
-    "attackSound": "metalhit"
+  "name": "Hwarang Elite",
+  "unitType": "Sword",
+  "uniqueTo": "Baekje",
+  "replaces": "Swordsman",
+  "movement": 2,
+  "strength": 12,
+  "cost": 75,
+  "requiredTech": "Iron Working",
+  "requiredResource": "Iron",
+  "obsoleteTech": "Gunpowder",
+  "upgradesTo": "Longswordsman",
+  "uniques": [
+    {
+      "stats": "+10% Culture",
+      "countable": "[{mapUnitFilter: [your]} Units adjacent to city]",
+      "multiplyStatByCount": true,
+      "cityFilter": "in all cities"
+    }
+  ],
+  "attackSound": "metalhit"
 },
 {
     "name": "Baekje Scholar",
