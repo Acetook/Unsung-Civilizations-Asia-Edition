@@ -33,7 +33,7 @@
     "upgradesTo": "Pikeman",
     "uniques": [
         "[+50]% Strength <vs [Mounted] units>",
-        "[+20]% Strength <in own territory>"
+        "[+20]% Strength <in [Friendly] tiles>"
     ],
     "promotions": ["Cover I"],
     "attackSound": "metalhit"
