@@ -72,7 +72,39 @@
         "[+1] Sight"
     ],
     "attackSound": "horse"
+},
+{
+    "name": "Hwarang Elite",
+    "unitType": "Sword",
+    "uniqueTo": "Baekje",
+    "replaces": "Swordsman",
+    "movement": 2,
+    "strength": 12,
+    "cost": 75,
+    "requiredTech": "Iron Working",
+    "requiredResource": "Iron",
+    "obsoleteTech": "Gunpowder",
+    "upgradesTo": "Longswordsman",
+    "uniques": [
+        "[+10]% Culture [per adjacent friendly unit]"
+    ],
+    "attackSound": "metalhit"
+},
+{
+    "name": "Baekje Scholar",
+    "unitType": "Civilian",
+    "uniqueTo": "Baekje",
+    "replaces": "Great Writer",
+    "uniques": [
+        "Can instantly create a [Great Work of Writing] <by consuming this unit>",
+        "[+50] Faith <when Great Work is created>",
+        "Great Person - [Culture]",
+        "Unbuildable",
+        "Uncapturable"
+    ],
+    "movement": 2
 }
+
 
 
 ]
