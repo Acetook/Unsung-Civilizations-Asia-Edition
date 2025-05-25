@@ -5,7 +5,7 @@ Implement:
           
 - [X] Kushan Empire civilization
           
-- [ ] Baekje civilization
+- [X] Baekje civilization
           
 - [ ] Majapahit civilization
           
