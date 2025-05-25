@@ -73,5 +73,38 @@
         "Ashvagosha", "Vasumitra", "Charaka", "Matricheta", "Parnav", "Rishabh", "Vima Kadphises",
         "Samgharakshita", "Yuezhi Scout", "Gandhara Whisper"
     ]
+},
+{
+    "name": "Baekje",
+    "leaderName": "King Muryeong",
+    "adjective": ["Baekjean"],
+    "preferredVictoryType": "Cultural",
+    "personality": "Muryeong",
+
+    "startIntroPart1": "Hail King Muryeong of Baekje, sovereign of a kingdom of beauty, scholarship, and spirit! Nestled in the southern realms of the Korean Peninsula, Baekje thrived as a cultural beacon during the Three Kingdoms era, fostering trade, faith, and enlightenment. Baekje's artisans shaped masterpieces, its monks spread Buddhism to foreign lands, and its scholars elevated Korean civilization to new heights.",
+    "startIntroPart2": "Will you lead Baekje to a new golden age? Will your plantations blossom into centers of culture, and your elite warriors defend your glory? Let the light of Baekje shine again across the ages!",
+
+    "declaringWar": "Baekje does not fear battle. Prepare yourself.",
+    "attacked": "You strike first? Baekje will not forget this.",
+    "defeated": "Though we fall, Baekje’s legacy endures.",
+    "introduction": "Greetings. I am King Muryeong of Baekje, guardian of wisdom and culture.",
+    "neutralHello": "Baekje watches with calm eyes.",
+    "hateHello": "Do not mistake our peace for weakness.",
+    "tradeRequest": "Let us share the wealth of our kingdoms.",
+
+    "outerColor": [112, 82, 172],
+    "innerColor": [255, 218, 130],
+
+    "favoredReligion": "Buddhism",
+    "uniqueName": "Kingdom of Incense",
+    "uniques": [
+        "[+1 Culture] from [Plantations]",
+        "Monuments generate [Great Writer] points"
+    ],
+    "cities": [
+        "Sabi", "Ungjin", "Wiryeseong", "Busosanseong", "Geumma", "Cheonan",
+        "Namwon", "Gongju", "Naju", "Iksan", "Buyeo", "Yeosu"
+    ],
+    "spyNames": ["Baek Ho", "Eunmi", "Minjae", "Sohee", "Jiwon", "Ha Neul", "Jangmi", "Seokjin", "Myungsoo", "Ara"]
 }
 ]
