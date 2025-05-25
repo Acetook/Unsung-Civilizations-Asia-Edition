@@ -37,6 +37,42 @@
     ],
     "promotions": ["Cover I"],
     "attackSound": "metalhit"
+},
+{
+    "name": "Steppe Archer",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 6,
+    "rangedStrength": 8,
+    "cost": 40,
+    "requiredTech": "Archery",
+    "obsoleteTech": "Construction",
+    "replaces": "Archer",
+    "uniqueTo": "Kushan Empire",
+    "upgradesTo": "Composite Bowman",
+    "promotions": ["+1 Sight"],
+    "attackSound": "arrow"
+},
+{
+    "name": "Yuezhi Cavalry",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 21,
+    "cost": 120,
+    "requiredTech": "Chivalry",
+    "obsoleteTech": "Military Science",
+    "replaces": "Knight",
+    "uniqueTo": "Kushan Empire",
+    "upgradesTo": "Cavalry",
+    "requiredResource": "Horses",
+    "uniques": [
+        "Can move after attacking",
+        "No defensive terrain bonus",
+        "[+25]% Strength <vs [Mounted] units>",
+        "[+1] Sight"
+    ],
+    "attackSound": "horse"
 }
+
 
 ]
