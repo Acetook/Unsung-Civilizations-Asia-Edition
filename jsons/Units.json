@@ -100,8 +100,8 @@
   "uniques": [
     "Unbuildable",
     "Cannot fight",
-    "Can be purchased with [Faith]",
-    "+2 Culture <when stationed in a city>"
+    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+    "+2 Culture <when stationed in [Your] cities>"
   ],
   "attackSound": "none"
 }
