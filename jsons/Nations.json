@@ -1,40 +1,39 @@
 [
-	{
-	"name": "Champa",
-	"leaderName": "Po Klaung Garai",
-	"adjective": ["Cham"],
-	"startBias": ["Coastal"],
-	"preferredVictoryType": "Religious",
-	"personality": "Po Klaung Garai",
+  {
+    "name": "Champa",
+    "leaderName": "Po Klaung Garai",
+    "adjective": ["Cham"],
+    "startBias": ["Coastal"],
+    "preferredVictoryType": "Culture",
+    "personality": "Po Klaung Garai",
 
-	"startIntroPart1": "Blessings to you, noble Po Klaung Garai, guardian of the towers of Champa! From the central coasts of ancient Vietnam, your people thrived upon the sea, blessed with faith and fragrant sandalwood. The Kingdom of Champa stood as a bulwark of Hindu and later Buddhist devotion, defending its lands against powerful neighbors and leaving behind towering sanctuaries of piety and art.",
-	"startIntroPart2": "Now, great King, may your faith once again inspire the hearts of your people. Will you bring prosperity to your coast, and build a civilization to stand the test of time?",
+    "startIntroPart1": "Blessings to you, noble Po Klaung Garai, guardian of the towers of Champa! From the central coasts of ancient Vietnam, your people thrived upon the sea, blessed with faith and fragrant sandalwood. The Kingdom of Champa stood as a bulwark of Hindu and later Buddhist devotion, defending its lands against powerful neighbors and leaving behind towering sanctuaries of piety and art.",
+    "startIntroPart2": "Now, great King, may your faith once again inspire the hearts of your people. Will you bring prosperity to your coast, and build a civilization to stand the test of time?",
 
-	"declaringWar": "You defile our sacred land. Prepare for divine retribution.",
-	"attacked": "The gods shall judge you for this offense.",
-	"defeated": "The temples fall silent... but our faith will endure.",
-	"introduction": "We are the heirs of towers and tides. Will you walk in peace, or provoke the storm?",
+    "declaringWar": "You defile our sacred land. Prepare for divine retribution.",
+    "attacked": "The gods shall judge you for this offense.",
+    "defeated": "The temples fall silent... but our faith will endure.",
+    "introduction": "We are the heirs of towers and tides. Will you walk in peace, or provoke the storm?",
 
-	"neutralHello": "Peace to you, stranger of distant shores.",
-	"hateHello": "Your scent offends the spirits. Why do you come?",
-	
-	"tradeRequest": "A trade in faith and fragrance, perhaps?",
+    "neutralHello": "Peace to you, stranger of distant shores.",
+    "hateHello": "Your scent offends the spirits. Why do you come?",
+    "tradeRequest": "A trade in faith and fragrance, perhaps?",
 
-	"outerColor": [107, 72, 39],  
-	"innerColor": [250, 200, 160],  
-	"favoredReligion": "Buddhism",
-	"uniqueName": "Sandalwood Legacy",
-	"uniques": [
-		"+1 [Faith] from every [Coastal Luxury]",
-		"[Temples] provide +1 [Culture]"
-	],
-	"cities": [
-		"Vijaya","Indrapura","Simhapura","Amaravati","Kauthara","Panduranga","Trà Kiệu","Mỹ Sơn","Phan Rang","Tháp Chàm",
-		"Châu Sa","Cửa Đại","Đại Hữu","An Mỹ","Lưỡng Giang","Hương Mỹ","Trà Kiệu Đông","Chiên Đàn","Phú Yên","Bình Định"
-	],
-	"spyNames": [
-		"Po Saut","Jaya Simhavarman","Harivarman","Rudravarman","Po Rome","Po Klong Moh Nai","Sri Bhadravarman",
-		"Po Phaok The","Jaya Indravarman","Cham Balam"
-	]
-}
+    "outerColor": [107, 72, 39],
+    "innerColor": [250, 200, 160],
+    "favoredReligion": "Buddhism",
+    "uniqueName": "Sandalwood Legacy",
+    "uniques": [
+      "+1 [Faith] per city on coast",
+      "[Temples] provide +1 [Culture]"
+    ],
+    "cities": [
+      "Vijaya","Indrapura","Simhapura","Amaravati","Kauthara","Panduranga","Trà Kiệu","Mỹ Sơn","Phan Rang","Tháp Chàm",
+      "Châu Sa","Cửa Đại","Đại Hữu","An Mỹ","Lưỡng Giang","Hương Mỹ","Trà Kiệu Đông","Chiên Đàn","Phú Yên","Bình Định"
+    ],
+    "spyNames": [
+      "Po Saut","Jaya Simhavarman","Harivarman","Rudravarman","Po Rome","Po Klong Moh Nai","Sri Bhadravarman",
+      "Po Phaok The","Jaya Indravarman","Cham Balam"
+    ]
+  }
 ]
