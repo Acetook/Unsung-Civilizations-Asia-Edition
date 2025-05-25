@@ -94,15 +94,16 @@
   "name": "Baekje Scholar",
   "unitType": "Civilian",
   "uniqueTo": "Baekje",
-  "replaces": "Great Writer",
+  "movement": 2,
+  "cost": 80,
+  "requiredTech": "Philosophy",
   "uniques": [
-    "Great Person - [Culture]",
-    "Consumes self <when ending turn in city>",
-    "[+10] Faith <in all cities>",
+    "+2 Culture <when stationed in a city>",
     "Unbuildable",
-    "Uncapturable"
+    "Cannot fight",
+    "Can be purchased with [Faith]"
   ],
-  "movement": 2
+  "attackSound": "none"
 }
 
 ]
