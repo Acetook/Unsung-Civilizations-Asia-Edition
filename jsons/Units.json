@@ -19,6 +19,24 @@
     ],
     "hurryCostModifier": 20,
     "attackSound": "elephant"
+},
+{
+    "name": "Temple Guard",
+    "unitType": "Sword",
+    "uniqueTo": "Champa",
+    "replaces": "Spearman",
+    "movement": 2,
+    "strength": 12,
+    "cost": 56,
+    "requiredTech": "Bronze Working",
+    "obsoleteTech": "Civil Service",
+    "upgradesTo": "Pikeman",
+    "uniques": [
+        "[+50]% Strength <vs [Mounted] units>",
+        "[+20]% Strength <in own territory>"
+    ],
+    "promotions": ["Cover I"],
+    "attackSound": "metalhit"
 }
 
 ]
