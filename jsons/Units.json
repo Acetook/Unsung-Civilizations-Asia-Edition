@@ -86,12 +86,7 @@
   "obsoleteTech": "Gunpowder",
   "upgradesTo": "Longswordsman",
   "uniques": [
-    {
-      "stats": "+10% Culture",
-      "countable": "[{mapUnitFilter: [your]} Units adjacent to city]",
-      "multiplyStatByCount": true,
-      "cityFilter": "in all cities"
-    }
+    "+10% Culture <when adjacent to a [your] unit>"
   ],
   "attackSound": "metalhit"
 },
