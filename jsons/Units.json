@@ -50,7 +50,7 @@
     "replaces": "Archer",
     "uniqueTo": "Kushan Empire",
     "upgradesTo": "Composite Bowman",
-    "promotions": ["+1 Sight"],
+    "uniques": ["[+1] Sight"],
     "attackSound": "arrow"
 },
 {
