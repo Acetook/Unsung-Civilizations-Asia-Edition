@@ -63,7 +63,7 @@
     "uniqueName": "Silk Road Scholars",
     "uniques": [
         "[+1 Science] from each Trade Route",
-        "Great Scientist cost reduced by [15%]"
+        "[Great Scientist] is earned [+15]% faster"
     ],
     "cities": [
         "Kapisa", "Peshawar", "Mathura", "Bactra", "Begram", "Taxila", "Purushapura", "Sagala", "Bharhut", "Khotan",
