@@ -98,10 +98,10 @@
   "cost": 80,
   "requiredTech": "Philosophy",
   "uniques": [
-    "+2 Culture <when stationed in a city>",
     "Unbuildable",
     "Cannot fight",
-    "Can be purchased with [Faith]"
+    "Can be purchased with [Faith]",
+    "+2 Culture <when stationed in a city>"
   ],
   "attackSound": "none"
 }
