@@ -207,7 +207,47 @@
     "Wiang Pa Pao", "Chai Prakan", "Mae Chan", "Ban Thi", "Samoeng", "Doi Tao", "Hang Dong", "San Sai"
   ],
   "spyNames": ["Phraya", "Thao", "Muen", "Siwa", "Chanok", "Inthanon", "Kham", "Suda", "Nang", "Chantara"]
+},
+{
+  "name": "Goguryeo",
+  "leaderName": "Goguryeo Monarch",
+  "adjective": ["Goguryeo"],
+  "startBias": ["Hills", "Mountains"],
+  "preferredVictoryType": "Domination",
+  "personality": "Goguryeo",
+
+  "startIntroPart1": "You lead Goguryeo, the fortress kingdom of Korea, known for its mountain strongholds and fierce warriors.",
+  "startIntroPart2": "Your cities begin fortified with Walls, and your troops heal faster near your cities. Will you reclaim and expand your mountainous homeland through strength and strategy?",
+
+  "declaringWar": "For Goguryeo! Let the mountains tremble before our might!",
+  "attacked": "We will not fall so easily—prepare for retribution!",
+  "defeated": "Our fortress may fall, but our spirit is unbroken.",
+  "denounced": "Empty threats from those who cannot match our resolve.",
+  "introduction": "I am the ruler of Goguryeo, the mountain fortress of Korea, strong and relentless.",
+  "tradeRequest": "Let us exchange goods and forge alliances to strengthen our kingdom.",
+
+  "neutralHello": "May your path be steady, traveler of the hills.",
+  "hateHello": "You dare trespass on Goguryeo soil? Prepare to be crushed.",
+
+  "outerColor": [120, 85, 60],
+  "innerColor": [180, 140, 100],
+
+  "favoredReligion": "Confucianism",
+  "uniqueName": "Fortress Kingdom",
+  "uniques": [
+    Gain a free [Walls] [in all cities]
+    "[+10] HP <when adjacent to [Your] cities>"
+  ],
+
+  "cities": [
+    "Pyongyang", "Jinju", "Suwon", "Seoul", "Kaesong"
+  ],
+
+  "spyNames": [
+    "Go Yak", "Yeon Gaesomun", "Eulji Mundeok", "Myeongnim Dap-bu", "Goguryeo Spy"
+  ]
 }
+
 
 
 
