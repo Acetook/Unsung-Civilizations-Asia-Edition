@@ -13,7 +13,7 @@ Implement:
           
 - [ ] Tibet civilization
           
-- [ ] Lanna Kingdom civilization
+- [X] Lanna Kingdom civilization
           
 - [ ] Qara Khitai civilization
           
