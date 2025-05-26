@@ -200,7 +200,39 @@
     "+2 Culture <when stationed in [Your] cities>",
      "Can undertake a trade mission with City-State, giving a large sum of gold and [3] Influence"
     ]
-    }
+    },
+  {
+    "name": "Mountain Swordsman",
+    "unitType": "Melee",
+    "uniqueTo": "Goguryeo",
+    "replaces": "Swordsman",
+    "movement": 2,
+    "strength": 11,
+    "cost": 80,
+    "requiredTech": "Iron Working",
+    "upgradesTo": "Longswordsman",
+    "uniques": [
+    "[+25]% Strength when stacked with [Hills]",
+    "Ignores terrain cost"
+    ],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Royal Cavalry Archer",
+    "unitType": "Mounted Archery",
+    "uniqueTo": "Goguryeo",
+    "replaces": "Horse Archer",
+    "movement": 3,
+    "strength": 8,         // Horse Archer base strength is usually around 10-11
+    "rangedStrength": 12,  // Typical Horse Archer ranged is ~14-15, reduced here
+    "cost": 90,
+    "requiredTech": "Horseback Riding",
+    "upgradesTo": "Cavalry Archer",
+    "uniques": [
+      "[Range] 2"
+    ],
+    "attackSound": "horse"
+  }
 
 
 ]
