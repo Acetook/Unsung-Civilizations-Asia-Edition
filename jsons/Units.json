@@ -169,7 +169,37 @@
     "Gain +1 Culture <when in [Water]>"
   ],
   "attackSound": "naval_attack"
-}
+},
+{
+  "name": "War Drum Infantry",
+  "unitType": "Melee",
+  "replaces": "Pikeman",
+  "uniqueTo": "Lanna Kingdom",
+  "movement": 2,
+  "strength": 16,
+  "cost": 90,
+  "requiredTech": "Civil Service",
+  "upgradesTo": "Lancer",
+  "uniques": [
+    "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+    "[+25]% Strength <when defending>"
+  ],
+  "attackSound": "metalhit"
+},
+{
+  "name": "Royal Envoy",
+  "unitType": "Civilian",
+  "uniqueTo": "Lanna Kingdom",
+  "movement": 2,
+  "cost": 300,
+  "requiredTech": "Currency",
+  "uniques": [
+    "Unbuildable",
+    "Cannot fight",
+    "Can be purchased with [Gold] [in all cities]",
+    "+2 Culture <when stationed in [Your] cities>",
+    "Gifts of Gold to City-States generate [+20]% more Influence <when stationed in [Your] cities>"
+  ],
 
 
 ]
