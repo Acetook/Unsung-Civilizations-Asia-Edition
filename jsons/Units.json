@@ -135,6 +135,37 @@
     "+1 Culture <when stationed in [Your] cities>"
   ],
   "attackSound": "none"
+},
+{
+  "name": "Bear Warrior",
+  "unitType": "Melee",
+  "replaces": "Warrior",
+  "uniqueTo": "Ainu",
+  "movement": 2,
+  "strength": 6,
+  "cost": 35,
+  "requiredTech": "None",
+  "uniques": [
+    "Starts with [Woodsman]",
+    "No maintenance cost"
+  ],
+  "attackSound": "sword"
+},
+{
+  "name": "Okhotsk Boat",
+  "unitType": "Melee Water",
+  "replaces": "Galley",
+  "uniqueTo": "Ainu",
+  "movement": 4,
+  "strength": 10,
+  "cost": 55,
+  "requiredTech": "Sailing",
+  "uniques": [
+    "Gain [3] Culture <upon defeating a unit>",
+    "[+1] Movement in <Coast>",
+    "[+1] Culture in <Coast>"
+  ],
+  "attackSound": "naval_attack"
 }
 
 
