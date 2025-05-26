@@ -104,6 +104,38 @@
     "+2 Culture <when stationed in [Your] cities>"
   ],
   "attackSound": "none"
+},
+{
+  "name": "Jong Raider",
+  "unitType": "Naval Melee",
+  "replaces": "Trireme",
+  "uniqueTo": "Majapahit",
+  "movement": 3,
+  "strength": 15,
+  "cost": 70,
+  "requiredTech": "Navigation",
+  "uniques": [
+    "[+50]% Strength <when attacking [Embarked] units>",
+    "[+1] Movement <when on [Coast] or [Shallow Water] tiles>"
+  ],
+  "attackSound": "naval_attack"
+},
+{
+  "name": "Diplomatic Envoy",
+  "unitType": "Civilian",
+  "uniqueTo": "Majapahit",
+  "movement": 2,
+  "cost": 100,
+  "requiredTech": "Currency",
+  "uniques": [
+    "Unbuildable",
+    "Cannot fight",
+    "Can be purchased with [Gold] [in all cities]",
+    "Can undertake a trade mission with City-State, giving a large sum of gold and [3] Influence",
+    "+1 Culture <when stationed in [Your] cities>"
+  ],
+  "attackSound": "none"
 }
+
 
 ]
