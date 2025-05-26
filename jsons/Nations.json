@@ -170,6 +170,42 @@
   "spyNames": [
     "Shakushain", "Monbetsu", "Okikurumi", "Akan", "Huci"
   ]
+},
+{
+  "name": "Lanna Kingdom",
+  "leaderName": "Kü Na",
+  "adjective": ["Lanna"],
+  "startBias": ["Hills"],
+  "preferredVictoryType": "Diplomatic",
+  "personality": "Friendly",
+
+  "startIntroPart1": "Greetings, wise ruler of Lan Na, the kingdom of a thousand rice fields nestled among the northern Thai hills. For centuries your people have prospered from rich trade, Buddhist faith, and a legacy of alliance and diplomacy.",
+  "startIntroPart2": "Will you guide your realm to greatness again, balancing harmony with strength? Will your neighbors remember you as a peacemaker — or a kingmaker?",
+
+  "declaringWar": "So this is how harmony ends — in discord!",
+  "attacked": "Dishonor will be repaid with resolve.",
+  "defeated": "Even fallen, we remain dignified.",
+  "introduction": "I am Kü Na, ruler of the Lanna Kingdom. We seek harmony, but will not shrink from defending it.",
+  "neutralHello": "Peace be upon your court.",
+  "hateHello": "Your presence disrupts the balance.",
+  "tradeRequest": "Let us trade, so our people may thrive together.",
+
+  "outerColor": [130, 70, 15],
+  "innerColor": [240, 215, 130],
+  "favoredReligion": "Buddhism",
+  "uniqueName": "Lan Na Harmony",
+  "uniques": [
+    "[+20]% Happiness from luxury resources gifted by City-States",
+    "Allied City-States provide [Culture] equal to [+20]% of what they produce for themselves",
+    "[+20]% [Culture] <when not at war> <every [3] turns>",
+    "[-50]% Unhappiness from [Population] [in your cities] <when not at war>",
+    "[-20]% [Happiness] <when at war> <every [5] turns>"
+  ],
+  "cities": [
+    "Chiang Mai", "Chiang Rai", "Lampang", "Lamphun", "Phrae", "Nan", "Phayao", "Mae Hong Son", "Fang", "Tha Ton",
+    "Wiang Pa Pao", "Chai Prakan", "Mae Chan", "Ban Thi", "Samoeng", "Doi Tao", "Hang Dong", "San Sai"
+  ],
+  "spyNames": ["Phraya", "Thao", "Muen", "Siwa", "Chanok", "Inthanon", "Kham", "Suda", "Nang", "Chantara"]
 }
 
 
