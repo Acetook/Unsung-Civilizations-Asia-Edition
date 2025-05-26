@@ -78,6 +78,7 @@
     "name": "Baekje",
     "leaderName": "King Muryeong",
     "adjective": ["Baekjean"],
+    "startBias": ["Jungle"],
     "preferredVictoryType": "Cultural",
     "personality": "Muryeong",
 
