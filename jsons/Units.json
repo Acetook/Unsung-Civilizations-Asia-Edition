@@ -211,6 +211,7 @@
     "strength": 11,
     "cost": 80,
     "requiredTech": "Iron Working",
+    "requiredResource": "Iron",
     "upgradesTo": "Longswordsman",
     "uniques": [
     "[+25]% Strength when stacked with [Hills]",
