@@ -7,7 +7,7 @@ Implement:
           
 - [X] Baekje civilization
           
-- [UA done ] Majapahit civilization
+- [X] Majapahit civilization
           
 - [ ] Mughals civilization
           
