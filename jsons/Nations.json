@@ -236,7 +236,8 @@
   "uniqueName": "Fortress Kingdom",
   "uniques": [
     "Gain a free [Walls] [in all cities]",
-    "[+10] HP when healing <when adjacent to a [City-State] unit>"
+    "[+10] HP when healing <when adjacent to a [City-State] unit>",
+    "[Wounded] Units adjacent to this city heal [3] HP per turn when healing"
   ],
 
   "cities": [
