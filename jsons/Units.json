@@ -164,7 +164,7 @@
   "cost": 55,
   "requiredTech": "Sailing",
   "uniques": [
-    "Earn [10]% of killed [Naval] unit's [Cost] as [Culture]"
+    "Earn [10]% of killed [Naval] unit's [Cost] as [Culture]",
     "[+1] Movement <for [Embarked] units>",
     "Gain +1 Culture <when in [Water]>"
   ],
@@ -181,7 +181,7 @@
   "requiredTech": "Civil Service",
   "upgradesTo": "Lancer",
   "uniques": [
-    "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+    "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
     "[+25]% Strength <when defending>"
   ],
   "attackSound": "metalhit"
@@ -199,7 +199,7 @@
     "Can be purchased with [Gold] [in all cities]",
     "+2 Culture <when stationed in [Your] cities>",
     "Gifts of Gold to City-States generate [+20]% more Influence <when stationed in [Your] cities>"
-  ],
+    }
 
 
 ]
