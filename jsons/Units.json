@@ -116,7 +116,7 @@
   "requiredTech": "Navigation",
   "uniques": [
     "Can undertake a trade mission with City-State, giving a large sum of gold and [2] Influence",
-    "[+1] Movement in [Coast]"
+    "Double movement in [Coast]"
   ],
   "attackSound": "naval_attack"
 },
