@@ -146,7 +146,6 @@
   "cost": 35,
   "uniques": [
     "No maintenance cost",
-    ["Double movement in [Forest]","Double movement in [Jungle]"],
     "[+25]% Strength <on Forest, Jungle>"
     
   ],
@@ -162,7 +161,6 @@
   "cost": 55,
   "requiredTech": "Sailing",
   "uniques": [
-    "Earn [15]% of killed unit's [Cost] as [Culture]",
     "[+1] Movement in <Coast>",
     "[+1] Culture in <Coast>"
   ],
