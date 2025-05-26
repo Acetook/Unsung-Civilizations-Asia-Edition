@@ -223,8 +223,8 @@
     "uniqueTo": "Goguryeo",
     "replaces": "Horse Archer",
     "movement": 3,
-    "strength": 8,         // Horse Archer base strength is usually around 10-11
-    "rangedStrength": 12,  // Typical Horse Archer ranged is ~14-15, reduced here
+    "strength": 8,         
+    "rangedStrength": 12, 
     "cost": 90,
     "requiredTech": "Horseback Riding",
     "upgradesTo": "Cavalry Archer",
