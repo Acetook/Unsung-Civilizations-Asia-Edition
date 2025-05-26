@@ -235,7 +235,7 @@
   "favoredReligion": "Confucianism",
   "uniqueName": "Fortress Kingdom",
   "uniques": [
-    Gain a free [Walls] [in all cities]
+      "Gain a free [Walls] [in all cities]",
     "[+10] HP <when adjacent to [Your] cities>"
   ],
 
