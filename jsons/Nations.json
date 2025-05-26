@@ -128,6 +128,53 @@
     "innerColor": [245, 223, 115],
     "cities": ["Trowulan", "Surabaya", "Bali", "Palembang", "Malacca", "Borneo", "Makassar", "Bandung", "Yogyakarta"],
     "spyNames": ["Gajah Mada", "Dyah Pitaloka", "Sri Baduga", "Nusantara", "Raden Wijaya"]
+},
+{
+  "name": "Ainu",
+  "leaderName": "Ainu Chieftain",
+  "adjective": ["Ainu"],
+  "startBias": ["Forest", "Coast"],
+  "preferredVictoryType": "Cultural",
+  "personality": "Ainu",
+  
+  "startIntroPart1": "You lead the Ainu people, the indigenous guardians of the northern forests and coasts. With deep reverence for nature, you thrive in harmony with your environment.",
+  "startIntroPart2": "Through respect for the wild and the spirits of the forest, your culture flourishes. Will you ensure the survival and honor of your people through peaceful prosperity?",
+  
+  "declaringWar": "The forest stands with us! Let none desecrate our lands unchallenged.",
+  "attacked": "Your aggression will awaken the spirits of the wild!",
+  "defeated": "Though defeated, the forest endures and our spirit remains unbroken.",
+  "denounced": "Your words are like the cold wind—harsh but empty.",
+  "introduction": "I am the Ainu Chieftain, protector of forest and sea.",
+  "tradeRequest": "Let us exchange gifts and strengthen our bonds.",
+  
+  "neutralHello": "May the spirits of the forest watch over you.",
+  "hateHello": "You tread where you are not welcome.",
+  
+  "outerColor": [85, 107, 47],
+  "innerColor": [144, 238, 144],
+  
+  "favoredReligion": "Animism",
+  "uniqueName": "Nature Revere",
+  "uniques": [
+    "[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
+    "[+2 Culture] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
+    "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
+    "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
+    "[25]% [Food] from [Forest] tiles"
+  ],
+  
+  "cities": [
+    "Sapporo", "Shiraoi", "Kushiro", "Nemuro", "Wakkanai"
+  ],
+  
+  "spyNames": [
+    "Shakushain", "Monbetsu", "Okikurumi", "Akan", "Huci"
+  ]
 }
+
+
+
+
+
     
 ]
