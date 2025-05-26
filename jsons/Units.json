@@ -106,17 +106,18 @@
   "attackSound": "none"
 },
 {
-  "name": "Jong Raider",
-  "unitType": "Naval Melee",
+  "name": "Jong Envoy",
+  "unitType": "Melee Water",
   "replaces": "Trireme",
   "uniqueTo": "Majapahit",
-  "movement": 3,
-  "strength": 15,
+  "movement": 4,
+  "strength": 10,
   "cost": 70,
   "requiredTech": "Navigation",
   "uniques": [
-    "[+50]% Strength <when attacking [Embarked] units>",
-    "[+1] Movement <when on [Coast] or [Shallow Water] tiles>"
+    "Can undertake trade missions with City-States, granting [2] Influence and [10] Gold",
+    "[+1] Movement <in Coast>",
+    "[+1] Movement <in Shallow Water>"
   ],
   "attackSound": "naval_attack"
 },
