@@ -19,7 +19,7 @@ Implement:
           
 - [ ] Goguryeo civilization
           
-- [ ] Ainu civilization
+- [X] Ainu civilization
 
 Wrap-up:          
 - [ ] Finalize unique abilities for all civs
