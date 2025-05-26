@@ -17,7 +17,7 @@ Implement:
           
 - [ ] Qara Khitai civilization
           
-- [ ] Goguryeo civilization
+- [x] Goguryeo civilization
           
 - [X] Ainu civilization
 
