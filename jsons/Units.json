@@ -68,6 +68,7 @@
     "uniques": [
         "Can move after attacking",
         "No defensive terrain bonus",
+        "Rough terrain penalty",
         "[+25]% Strength <vs [Mounted] units>",
         "[+1] Sight"
     ],
@@ -219,19 +220,21 @@
   },
   {
     "name": "Royal Cavalry Archer",
-    "unitType": "Mounted Archery",
+    "unitType": "Archery",
     "uniqueTo": "Goguryeo",
-    "replaces": "Horse Archer",
+    "replaces": "Chariot Archer",
     "movement": 3,
     "strength": 8,         
     "rangedStrength": 12, 
     "cost": 90,
-    "requiredTech": "Horseback Riding",
-    "upgradesTo": "Cavalry Archer",
+    "requiredTech": "The Wheel",
+    "requiredResource": "Horses",
+    "upgradesTo": "Knight",
+	"obsoleteTech": "Chivalry",
     "uniques": [
-      "[Range] 2"
+      "[Range] 2","No defensive terrain bonus", "Rough terrain penalty"
     ],
-    "attackSound": "horse"
+    "attackSound": "arrow"
   }
 
 
