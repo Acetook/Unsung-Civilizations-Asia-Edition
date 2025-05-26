@@ -165,8 +165,8 @@
   "requiredTech": "Sailing",
   "uniques": [
     "Earn [10]% of killed [Naval] unit's [Cost] as [Culture]"
-    "[+1] Movement in <Coast>",
-    "[+1] Culture in <Coast>"
+    "[+1] Movement <for [Embarked] units>",
+    "Gain +1 Culture <when in [Water]>"
   ],
   "attackSound": "naval_attack"
 }
