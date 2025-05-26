@@ -146,7 +146,10 @@
   "cost": 35,
   "uniques": [
     "No maintenance cost",
-    "[+25]% Strength <on Forest, Jungle>"
+    "[+25]% Strength when stacked with [Forest]",
+    "[+25]% Strength when stacked with [Jungle]",
+    "Double movement in [Forest]",
+    "Double movement in [Jungle]"
     
   ],
   "attackSound": "sword"
@@ -161,6 +164,7 @@
   "cost": 55,
   "requiredTech": "Sailing",
   "uniques": [
+    "Earn [10]% of killed [Naval] unit's [Cost] as [Culture]"
     "[+1] Movement in <Coast>",
     "[+1] Culture in <Coast>"
   ],
