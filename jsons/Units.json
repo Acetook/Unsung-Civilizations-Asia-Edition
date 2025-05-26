@@ -115,9 +115,8 @@
   "cost": 70,
   "requiredTech": "Navigation",
   "uniques": [
-    "Can undertake trade missions with City-States, granting [2] Influence and [10] Gold",
-    "[+1] Movement <in Coast>",
-    "[+1] Movement <in Shallow Water>"
+    "Can undertake a trade mission with City-State, giving a large sum of gold and [2] Influence",
+    "[+1] Movement in [Coast]"
   ],
   "attackSound": "naval_attack"
 },
