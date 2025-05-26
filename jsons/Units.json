@@ -191,7 +191,7 @@
   "unitType": "Civilian",
   "uniqueTo": "Lanna Kingdom",
   "movement": 2,
-  "cost": 300,
+  "cost": 100,
   "requiredTech": "Currency",
   "uniques": [
     "Unbuildable",
