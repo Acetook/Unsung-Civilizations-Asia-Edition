@@ -160,7 +160,6 @@
     "[+2 Culture] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
     "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
     "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
-    "[+1] Food <on Forest>"
     "[+1 Food] in cities on [Forest] tiles"
   ],
   
