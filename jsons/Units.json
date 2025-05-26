@@ -144,10 +144,11 @@
   "movement": 2,
   "strength": 6,
   "cost": 35,
-  "requiredTech": "None",
   "uniques": [
-    "Starts with [Woodsman]",
-    "No maintenance cost"
+    "No maintenance cost",
+    ["Double movement in [Forest]","Double movement in [Jungle]"],
+    "[+25]% Strength <on Forest, Jungle>"
+    
   ],
   "attackSound": "sword"
 },
@@ -161,7 +162,7 @@
   "cost": 55,
   "requiredTech": "Sailing",
   "uniques": [
-    "Gain [3] Culture <upon defeating a unit>",
+    "Earn [15]% of killed unit's [Cost] as [Culture]",
     "[+1] Movement in <Coast>",
     "[+1] Culture in <Coast>"
   ],
