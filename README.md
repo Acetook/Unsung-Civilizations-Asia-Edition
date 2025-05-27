@@ -9,7 +9,7 @@ Implement:
           
 - [X] Majapahit civilization
           
-- [ ] Mughals civilization
+- [X] Mughals civilization
           
 - [X] Tibet civilization
           
