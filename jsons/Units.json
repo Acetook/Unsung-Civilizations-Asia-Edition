@@ -270,7 +270,44 @@
 			"[-1] Sight", "Never appears as a Barbarian unit"],
 	"hurryCostModifier": 20,
 	"attackSound": "throw"
+},
+{
+	  "name": "Snow Monk",
+	  "unitType": "Scout",
+	  "uniqueTo": "Tibet",
+	  "replaces": "Scout",
+	  "movement": 2,
+	  "strength": 8,
+	  "cost": 25,
+	  "requiredTech": "Pottery",
+	  "uniques": [
+	    "Can move through [Mountains]",
+	    "Ignores Zone of Control",
+	    "No defensive terrain bonus"
+	  ],
+	  "attackSound": "strike"
+},
+{
+  "name": "Thunderbolt Cavalry",
+  "unitType": "Archery",
+  "uniqueTo": "Tibet",
+  "replaces": "Chariot Archer",
+  "movement": 4,
+  "strength": 9,
+  "rangedStrength": 12,
+  "cost": 60,
+  "requiredTech": "The Wheel",
+  "requiredResource": "Horses",
+  "upgradesTo": "Knight",
+  "obsoleteTech": "Chivalry",
+  "uniques": [
+    "Ignores terrain cost",
+    "[+25]% Strength <vs [Ranged] units>",
+    "No defensive terrain bonus"
+  ],
+  "attackSound": "arrow"
 }
+
 
 
 
