@@ -246,6 +246,43 @@
   "spyNames": [
     "Go Yak", "Yeon Gaesomun", "Eulji Mundeok", "Myeongnim Dap-bu", "Goguryeo Spy"
   ]
+},
+{
+  "name": "Qara Khitai",
+  "leaderName": "Yelü Dashi",
+  "adjective": ["Qara Khitai"],
+  "startBias": ["Plains", "Grassland"],
+  "preferredVictoryType": "Scientific",
+  "personality": "Scientific",
+
+  "startIntroPart1": "You lead the Qara Khitai, heirs of the Liao dynasty, a sinicized khanate that brought the culture and governance of China to the western steppes.",
+  "startIntroPart2": "Will you lead your multicultural empire to a renaissance of knowledge, balancing nomadic legacy with scholarly achievement?",
+
+  "declaringWar": "The wisdom of the steppes now rides to war!",
+  "attacked": "Your aggression betrays your ignorance.",
+  "defeated": "Even in defeat, our legacy will be studied and remembered.",
+  "introduction": "I am Yelü Dashi, Grand Khagan of the Qara Khitai. Our books are as sharp as our blades.",
+  "neutralHello": "May trade and knowledge pass freely between us.",
+  "hateHello": "You misunderstand both power and civility.",
+  "tradeRequest": "Let us trade — scrolls, gold, and peace alike.",
+
+  "outerColor": [110, 85, 50],
+  "innerColor": [220, 190, 140],
+
+  "favoredReligion": "Confucianism",
+  "uniqueName": "Sinicized Steppe",
+  "uniques": [
+    "[+1 Gold] from every [Library]"
+    "[+10% Production] from every [Academy]"
+  ],
+
+  "cities": [
+    "Balasagun", "Uzgen", "Samarkand", "Kashgar", "Khotan", "Beshbalik", "Karakhoja", "Yarkand"
+  ],
+
+  "spyNames": [
+    "Yelü Yilie", "Tabuy", "Kao", "Chengzong", "Shen", "Ananda", "Qutlugh", "Tatar"
+  ]
 }
 
 
