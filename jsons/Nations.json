@@ -323,6 +323,44 @@
   "spyNames": [
     "Padmasambhava", "Yeshe", "Thonmi", "Tenzin", "Dorje", "Namkhai", "Gendun", "Sakya"
   ]
+},
+{
+  "name": "Mughals",
+  "leaderName": "Babur",
+  "adjective": ["Mughal"],
+  "startBias": ["Plains"],
+  "preferredVictoryType": "Domination",
+  "personality": "Mughal",
+
+  "startIntroPart1": "You lead the mighty Mughals, conquerors of India and masters of gunpowder and grandeur. Under your rule, artillery thundered and palaces gleamed.",
+  "startIntroPart2": "May your cannons roar across empires and your horsemen ride with imperial resolve. Will you forge a dominion unrivaled across the subcontinent?",
+
+  "declaringWar": "Let the thunder of cannons announce our wrath!",
+  "attacked": "You test the Empire? Then face its fury.",
+  "defeated": "Even broken, an empire echoes through time.",
+  "denounced": "You posture like a prince, but rule like a beggar.",
+  "introduction": "I am the Emperor of Hindustan, sovereign of splendor and steel.",
+  "neutralHello": "We greet you from the jewel of the East.",
+  "hateHello": "You insult the empire with your presence.",
+  "tradeRequest": "Let us trade as emperors do — with wealth and dignity.",
+
+  "outerColor": [120, 70, 20],
+  "innerColor": [200, 180, 130],
+
+  "favoredReligion": "Islam",
+  "uniqueName": "Artillery of Empire",
+  "uniques": [
+    "[+1] Movement <for [Siege] units>",
+    "[+20]% Strength <vs [Cities]>"
+  ],
+
+  "cities": [
+    "Agra", "Delhi", "Lahore", "Fatehpur Sikri", "Hyderabad", "Multan", "Jaunpur", "Bhera", "Srinagar", "Thatta"
+  ],
+
+  "spyNames": [
+    "Birbal", "Faizi", "Abul Fazl", "Mirza Aziz", "Zain Khan", "Bairam Khan", "Khusrau", "Tansen"
+  ]
 }
 
 
