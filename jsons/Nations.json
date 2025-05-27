@@ -311,8 +311,8 @@
   "favoredReligion": "Buddhism",
   "uniqueName": "Monastic Enlightenment",
   "uniques": [
-    "[+2 Faith] [in all cities] <for each adjacent [Mountain] tile>",
-    "[+1 Science] from [Shrines]"
+    "[+2 Faith] from adjacent [Mountain] tiles",
+    "[+1 Science] from [Shrine]"
   ],
 
   "cities": [
