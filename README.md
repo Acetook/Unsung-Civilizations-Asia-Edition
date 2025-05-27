@@ -24,7 +24,7 @@ Implement:
 Wrap-up:          
 - [ ] Finalize unique abilities for all civs
           
-- [ ] Create unique icons for each civilization
+- [X] Create unique icons for each civilization
           
 - [ ] Playtest and balance civ abilities and units
           
