@@ -281,7 +281,7 @@
 	  "cost": 25,
 	  "requiredTech": "Pottery",
 	  "uniques": [
-	    "Can move through [Mountains]",
+	    "Ignores terrain cost",
 	    "Ignores Zone of Control",
 	    "No defensive terrain bonus"
 	  ],
