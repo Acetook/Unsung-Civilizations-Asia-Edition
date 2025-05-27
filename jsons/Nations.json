@@ -251,7 +251,7 @@
   "name": "Qara Khitai",
   "leaderName": "Yelü Dashi",
   "adjective": ["Qara Khitai"],
-  "startBias": ["Plains", "Grassland"],
+  "startBias": ["Tundra"],
   "preferredVictoryType": "Scientific",
   "personality": "Scientific",
 
