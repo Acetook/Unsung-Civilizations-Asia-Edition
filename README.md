@@ -21,11 +21,9 @@ Implement:
           
 - [X] Ainu civilization
 
-Wrap-up:          
-- [ ] Finalize unique abilities for all civs
-          
+Wrap-up:                    
 - [X] Create unique icons for each civilization
           
 - [ ] Playtest and balance civ abilities and units
-          
- - [ ] Document civ notes and design rationale
+
+- [X] Update unique icons into circles
