@@ -284,6 +284,44 @@
   "spyNames": [
     "Yelü Yilie", "Tabuy", "Kao", "Chengzong", "Shen", "Ananda", "Qutlugh", "Tatar"
   ]
+},
+{
+  "name": "Tibet",
+  "leaderName": "Dharma King",
+  "adjective": ["Tibetan"],
+  "startBias": ["Mountain"],
+  "preferredVictoryType": "Religious",
+  "personality": "Spiritual",
+
+  "startIntroPart1": "You lead the Tibetan people, guardians of the world's roof and keepers of ancient spiritual wisdom. From your mountain strongholds, monks and mystics have long pursued enlightenment.",
+  "startIntroPart2": "May your highland faith shine like a beacon across the world. Will you guide Tibet to transcendence through peace, pilgrimage, and holy resolve?",
+
+  "declaringWar": "Even the serene must fight when disturbed.",
+  "attacked": "Your aggression will echo through the valleys!",
+  "defeated": "Our bodies may fall, but our spirit remains eternal.",
+  "denounced": "Even a mountain casts a shadow — your words matter not.",
+  "introduction": "I am the Dharma King, voice of the sacred peaks. Step carefully.",
+  "neutralHello": "The mountains whisper peace — may you hear them.",
+  "hateHello": "You walk a path of ignorance.",
+  "tradeRequest": "Let our peoples trade in harmony and trust.",
+
+  "outerColor": [150, 100, 180],
+  "innerColor": [240, 230, 140],
+
+  "favoredReligion": "Buddhism",
+  "uniqueName": "Monastic Enlightenment",
+  "uniques": [
+    "[+2 Faith] [in all cities] <for each adjacent [Mountain] tile>",
+    "[+1 Science] from [Shrines]"
+  ],
+
+  "cities": [
+    "Lhasa", "Shigatse", "Gyantse", "Tsetang", "Ngari", "Chamdo", "Nagqu", "Nyingchi"
+  ],
+
+  "spyNames": [
+    "Padmasambhava", "Yeshe", "Thonmi", "Tenzin", "Dorje", "Namkhai", "Gendun", "Sakya"
+  ]
 }
 
 
