@@ -11,7 +11,7 @@ Implement:
           
 - [ ] Mughals civilization
           
-- [ ] Tibet civilization
+- [X] Tibet civilization
           
 - [X] Lanna Kingdom civilization
           
