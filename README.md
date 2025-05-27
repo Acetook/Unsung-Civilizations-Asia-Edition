@@ -15,7 +15,7 @@ Implement:
           
 - [X] Lanna Kingdom civilization
           
-- [ ] Qara Khitai civilization
+- [X] Qara Khitai civilization
           
 - [x] Goguryeo civilization
           
