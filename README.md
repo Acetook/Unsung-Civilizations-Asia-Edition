@@ -26,4 +26,4 @@ Wrap-up:
           
 - [ ] Playtest and balance civ abilities and units
 
-- [] Update unique icons into circles
+- [X] Update unique icons into circles
